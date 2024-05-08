@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/poneoneo?logo=github&style=for-the-
 </p>
 
 ### GitHub Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=poneoneo)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=poneoneo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Socials
 
