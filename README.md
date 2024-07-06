@@ -7,8 +7,8 @@ Python Developper and Problem Solver
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [Personal Blog Made wiith Django](http://https://dwingeloo.pythonanywhere.com/articles/prenez-un-bon-depart-avec-django/)
 * ✉️  You can contact me at [onealzero@gmail.com](mailto:onealzero@gmail.com)
-* 🚀  I'm currently working on [Fastest Youtube Playlist Downloader](http://https://github.com/poneoneo/Fastest_Youtube_Playlist_Downloader)
-* 🧠  I'm learning Webscraping, Data analisys, Machine Learning
+* 🚀  I'm currently working on increase my skills with python 
+* 🧠  I'm learning Webscraping, Data analisys
 
 <a href="https://www.github.com/poneoneo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/poneoneo?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
@@ -37,6 +37,8 @@ src="https://img.shields.io/github/followers/poneoneo?logo=github&style=for-the-
 
 <b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/poneoneo/Alibaba-CLI-Scrapper" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=poneoneo&repo=Alibaba-CLI-Scrapper&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 <div width="100%" align="center"><a href="https://github.com/poneoneo/Fastest_Youtube_Playlist_Downloader" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=poneoneo&repo=Fastest_Youtube_Playlist_Downloader&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/poneoneo/Alibaba-CLI-Scrapper" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=poneoneo&repo=Alibaba-CLI-Scrapper&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
