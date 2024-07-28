@@ -8,7 +8,7 @@ Python Developper and Problem Solver
 * 🖥️  See my portfolio at [Personal Blog Made wiith Django](http://https://dwingeloo.pythonanywhere.com/articles/prenez-un-bon-depart-avec-django/)
 * ✉️  You can contact me at [onealzero@gmail.com](mailto:onealzero@gmail.com)
 * 🚀  I'm currently working on increase my skills with python 
-* 🧠  I'm learning Webscraping, Data analisys
+* 🧠  I'm learning Webscraping, Data analysis
 
 <a href="https://www.github.com/poneoneo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/poneoneo?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
