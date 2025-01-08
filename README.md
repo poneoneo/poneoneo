@@ -6,7 +6,7 @@ Python Developper and Problem Solver
 
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [Personal Blog Made wiith Django](http://https://dwingeloo.pythonanywhere.com/articles/prenez-un-bon-depart-avec-django/)
-* ✉️  You can contact me at [onealzero@gmail.com](mailto:onealzero@gmail.com)
+* ✉️  You can contact me at [onealmboula@gmail.com](mailto:onealmboula@gmail.com)
 * 🚀  I'm currently working on increase my skills with python 
 * 🧠  I'm learning Webscraping, Data analysis
 
