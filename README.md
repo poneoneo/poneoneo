@@ -38,6 +38,7 @@ src="https://img.shields.io/github/followers/poneoneo?logo=github&style=for-the-
 <a href="http://www.github.com/poneoneo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=poneoneo&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
 <b>Top Repositories</b>
+[![trophy](https://github-profile-trophy.vercel.app/?username=poneoneo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div width="100%" align="center"><a href="https://github.com/poneoneo/Alibaba-CLI-Scrapper" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=poneoneo&repo=Alibaba-CLI-Scrapper&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
